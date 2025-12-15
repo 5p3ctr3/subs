@@ -1,4 +1,4 @@
-vless://4dc0b732-0e32-4fe1-8023-0f7b7200cbdc@144.31.80.49:443?security=reality&sni=google.com&fp=chrome&pbk=10EsSttzXxB7VdivHfIh-XldcHPlYBpU92t2R9oU5V0&sid=bd4b&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8D%BAvless%F0%9F%8D%BA
-ss://2022-blake3-aes-256-gcm:rKeKajgkB5nS9%2B%2BC0%2F15q2mOB6wpNacf2B%2B18m6gTR0%3D%3A7mgPeRzc2nXl6AytbN1lo3NT5sJ5OpwOOmrN%2FbHVmcc%3D@144.31.80.49:35246#%F0%9F%8D%BAshadowsocks%F0%9F%8D%BA
-vmess://eyJhZGQiOiIxNDQuMzEuODAuNDkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMGRkOTEzYTAtYzM2OS00OWZlLWI3ODktZDljNjRkZDNkNjFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyODkwOSIsInBzIjoi8J+NunZtZXNz8J+NuiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://Lj4e5HepUP@144.31.80.49:36231?security=&type=tcp#%F0%9F%8D%BAtrojan%F0%9F%8D%BA
+vless://4dc0b732-0e32-4fe1-8023-0f7b7200cbdc@144.31.80.49:443?security=tls&alpn=h2,http/1.1&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8D%BAvless%F0%9F%8D%BA
+vmess://eyJhZGQiOiIxNDQuMzEuODAuNDkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiN2U5ZmQ1NWUtNzhkOS00YmU3LTlkYjItNTZkN2E0NTU5MTc4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODYwMCIsInBzIjoi8J+NunZtZXNz8J+NuiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+ss://2022-blake3-aes-256-gcm:BzKhhqH5kKQWb%2FUfwkb0NO3bAjXBaabA1JEozLDm8bk%3D%3AEgW0h2fcKuu4%2Bdo2Ixj58qfSXUN6D8loVKz71cOW6E4%3D@144.31.80.49:44079#%F0%9F%8D%BAshadowsocks%F0%9F%8D%BA
+trojan://QrZXD4mO1e@144.31.80.49:25441?security=&type=tcp#%F0%9F%8D%BAtrojan%F0%9F%8D%BA
